@@ -1,0 +1,20 @@
+{
+  "name": "YonDiF_BE_Helper",
+  "version": "1.0.2",
+  "description": "修复更新下载问题",
+  "date": "2025-04-07",
+  "history": [
+    {
+      "version": "1.0.0",
+      "name": "YonDiF_BE_Helper",
+      "description": "首次发布",
+      "date": "2025-04-06"
+    },
+    {
+      "version": "1.0.1",
+      "name": "YonDiF_BE_Helper",
+      "description": "增加自动更新支持",
+      "date": "2025-04-07"
+    }
+  ]
+}
