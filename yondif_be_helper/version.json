@@ -1,7 +1,7 @@
 {
   "name": "YonDiF_BE_Helper",
-  "version": "1.0.5",
-  "description": "支持无拓展脚本页面",
+  "version": "1.0.6",
+  "description": "$npm_config_desc",
   "date": "2025-04-07",
   "history": [
     {
@@ -32,6 +32,12 @@
       "version": "1.0.4",
       "name": "YonDiF_BE_Helper",
       "description": "版本号显示问题",
+      "date": "2025-04-07"
+    },
+    {
+      "version": "1.0.5",
+      "name": "YonDiF_BE_Helper",
+      "description": "支持无拓展脚本页面",
       "date": "2025-04-07"
     }
   ]
