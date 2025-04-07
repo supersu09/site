@@ -1,48 +1,41 @@
 {
   "name": "YonDiF_BE_Helper",
   "version": "1.0.7",
-  "description": "修复已知问题",
-  "date": "2025-04-07",
+  "description": "不想写了",
+  "date": "2025-04-08",
   "history": [
     {
       "version": "1.0.0",
-      "name": "YonDiF_BE_Helper",
       "description": "首次发布",
       "date": "2025-04-06"
     },
     {
       "version": "1.0.1",
-      "name": "YonDiF_BE_Helper",
       "description": "增加自动更新支持",
       "date": "2025-04-07"
     },
     {
       "version": "1.0.2",
-      "name": "YonDiF_BE_Helper",
       "description": "修复更新下载问题",
       "date": "2025-04-07"
     },
     {
       "version": "1.0.3",
-      "name": "YonDiF_BE_Helper",
       "description": "修复已知问题",
       "date": "2025-04-07"
     },
     {
       "version": "1.0.4",
-      "name": "YonDiF_BE_Helper",
       "description": "版本号显示问题",
       "date": "2025-04-07"
     },
     {
       "version": "1.0.5",
-      "name": "YonDiF_BE_Helper",
       "description": "支持无拓展脚本页面",
       "date": "2025-04-07"
     },
     {
       "version": "1.0.6",
-      "name": "YonDiF_BE_Helper",
       "description": "云机一体注入的cookie作用域不全",
       "date": "2025-04-07"
     }
