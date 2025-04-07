@@ -1,7 +1,7 @@
 {
   "name": "YonDiF_BE_Helper",
-  "version": "1.0.2",
-  "description": "修复更新下载问题",
+  "version": "1.0.4",
+  "description": "$npm_config_desc",
   "date": "2025-04-07",
   "history": [
     {
@@ -14,6 +14,18 @@
       "version": "1.0.1",
       "name": "YonDiF_BE_Helper",
       "description": "增加自动更新支持",
+      "date": "2025-04-07"
+    },
+    {
+      "version": "1.0.2",
+      "name": "YonDiF_BE_Helper",
+      "description": "修复更新下载问题",
+      "date": "2025-04-07"
+    },
+    {
+      "version": "1.0.3",
+      "name": "YonDiF_BE_Helper",
+      "description": "$npm_config_desc",
       "date": "2025-04-07"
     }
   ]
