@@ -1,8 +1,14 @@
 {
   "name": "YonDiF_BE_Helper",
+<<<<<<< HEAD
   "version": "1.0.8",
   "description": "1.rdbga删除、zone删除按钮\n2.多页面嵌套时可选择调试模板",
   "date": "2025-04-17",
+=======
+  "version": "1.0.7",
+  "description": "不想写了",
+  "date": "2025-04-08",
+>>>>>>> a26da7ee98f8ca6858222c5e672df3351f85786c
   "history": [
     {
       "version": "1.0.0",
@@ -38,11 +44,14 @@
       "version": "1.0.6",
       "description": "云机一体注入的cookie作用域不全",
       "date": "2025-04-07"
+<<<<<<< HEAD
     },
     {
       "version": "1.0.7",
       "description": "不想写了",
       "date": "2025-04-08"
+=======
+>>>>>>> a26da7ee98f8ca6858222c5e672df3351f85786c
     }
   ]
 }
